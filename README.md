@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Vleerian
-- 👀 I’m interested in Dotnet
-- 🌱 I’m currently trying to learn OpenCL
-- 💞️ I’m looking to collaborate on Cryptography and Machine Learning
-- 📫 How to reach me atagait@hotmail.com
+I am a proffessional hater, with an interest in C#/Dotnet
+
+I'd like to get better at rust, but it means giving up my hard-earned dotnet experience for a whole new paradigm
+
+I need to sit down and get good with godot, game dev is a passion I am bad at pursuing
+
+- 📫 How to reach me vleerian@hotmail.com
 
 <!---
 Vleerian/Vleerian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
